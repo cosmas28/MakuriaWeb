@@ -1,0 +1,2 @@
+# MakuriaWeb
+CMS template
